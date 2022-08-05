@@ -1,0 +1,22 @@
+{
+  "name": "one-to-one-mapper",
+  "version": "1.0.0",
+  "description": "Problem was asked by Bloomberg",
+  "main": "index.ts",
+  "scripts": {
+    "solve": "ts-node src/index.ts",
+    "test": "jest"
+  },
+
+  "author": "Ferencz Dávid",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.7",
+    "@babel/preset-typescript": "^7.12.7",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.0.14",
+    "jest": "^26.6.3",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
